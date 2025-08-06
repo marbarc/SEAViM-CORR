@@ -28,22 +28,23 @@ Clona el repositorio:
 
 ```bash
 git clone https://github.com/marbarc/SEAViM-CORR.git
-cd SEAViM-CORR
+```
 Instala las dependencias:
 
 ```bash
 pip install -r requirements.txt
+```
 ## Ejecución
 
 ### Versión escritorio:
 ```bash
 python desktop_app/main.py
-### Versión móvil:
+```
 La versión móvil está desarrollada con Kivy. Se requiere Buildozer para compilar el APK.
-
 ```bash
 cd mobile_app
 # Ejecutar Buildozer según las instrucciones del proyecto
+```
 ## Licencia
 
 Este software está licenciado bajo los términos de la licencia MIT. Consulta `LICENCE.txt` para más detalles.
