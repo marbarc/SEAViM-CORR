@@ -15,3 +15,6 @@ The software is delivered through two graphical interfaces:
 - Mobile (Android): **Kivy**
 ##  Example installation:  
 Clone the repository:
+```bash
+git clone https://github.com/marbarc/SEAViM-CORR.git
+```
