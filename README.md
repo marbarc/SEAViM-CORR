@@ -11,6 +11,7 @@ The software is delivered through two graphical interfaces:
 - Reproducible outputs that reduce subjectivity in visual inspection.  
 ## Requirements
 - **Python 3.8+**  
-- Desktop: `tkinter`, `opencv-python`, `numpy`  
+- Desktop: `Tkinter`, `OpenCV`, `Numpy`  
 - Mobile (Android): **Kivy**
-- 
+##  Example installation:  
+Clone the repository:
