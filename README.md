@@ -9,3 +9,8 @@ The software is delivered through two graphical interfaces:
 - Image-based workflow with standardized morphological indicators.  
 - Dual-interface design: **desktop GUI** for laboratory/office use, **mobile GUI** for real-time field use.  
 - Reproducible outputs that reduce subjectivity in visual inspection.  
+## Requirements
+- **Python 3.8+**  
+- Desktop: `tkinter`, `opencv-python`, `numpy`  
+- Mobile (Android): **Kivy**
+- 
