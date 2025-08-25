@@ -4,3 +4,8 @@
 The software is delivered through two graphical interfaces:  
 - **Desktop version** for detailed analysis.  
 - **Mobile version** for in situ assessments.  
+## Key Features
+- Identification of **primary** and **secondary** corrosion mechanisms (pitting, filiform, stress-induced, galvanic, atmospheric).  
+- Image-based workflow with standardized morphological indicators.  
+- Dual-interface design: **desktop GUI** for laboratory/office use, **mobile GUI** for real-time field use.  
+- Reproducible outputs that reduce subjectivity in visual inspection.  
